@@ -21,7 +21,7 @@ public class Prg067_ObtenerDesc
         {
             desc = precio * 0.15;
         }
-        else if(num >= 74)
+        else
         {
             desc = precio * 0.20;
         }
