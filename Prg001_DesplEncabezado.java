@@ -14,7 +14,6 @@ public class Prg001_DesplEncabezado
 	System.out.println("||           Fundamentos de Progrmación            ||");
         System.out.println(title);
         System.out.println(desc);
-	System.out.println("||             Prg001_DeslpEncabezado              ||");
 	System.out.println("||                                                 ||");
 	System.out.println("||                Desarrollado Por:                ||");
 	System.out.println("||          Gonzalez Cabrales Joseph Ian           ||");
